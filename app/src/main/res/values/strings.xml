@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lista_cardview</string>
+    <string-array name="names_txt">
+        <item>KISS</item>
+        <item>Poison</item>
+        <item>W.A.S.P.</item>
+        <item>Skid Row</item>
+        <item>Warrant</item>
+        <item>Motley Crue</item>
+        <item>Slayer</item>
+    </string-array>
+    <string-array name="genero_text">
+        <item>Hard Rock</item>
+        <item>Glam Metal</item>
+        <item>Shock Metal</item>
+        <item>Sleaze Metal</item>
+        <item>Glam Metal</item>
+        <item>Shock Metal</item>
+        <item>Thrash Metal</item>
+    </string-array>
+</resources>
